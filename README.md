@@ -6,7 +6,7 @@
 
 <h2>🧠 About Me</h2>
 <p>
-I'm a passionate software engineer and founder of YiğitDEV Softworks, driven by building practical and scalable software that actually works. I’m deeply interested in application architecture, cybersecurity, and systems that merge functionality with performance.
+I'm a passionate software developer and founder of YiğitDEV Softworks, driven by building practical and scalable software that actually works. I’m deeply interested in application architecture, cybersecurity, and systems that merge functionality with performance.
 
 I enjoy developing tools and apps that make life easier — from VPN's to installer systems and secure messaging apps. I believe in clean design, reliable code, and learning by building.
 </p>
