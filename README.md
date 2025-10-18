@@ -35,7 +35,7 @@ I enjoy developing tools and apps that make life easier — from VPN's to instal
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnderGamer6112&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderGamer6112&layout=compact&theme=dark&langs_count=6&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://camo.githubusercontent.com/d93078c36ab4f123c8d59b80b8bf73dea52cf14eb2d76e3c7bc52577e8cb2935/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e64657247616d657236313132266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d3626686964655f626f726465723d74727565" alt="Top Languages" />
 </div>
 
 <div align="center">
