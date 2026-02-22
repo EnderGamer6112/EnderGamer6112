@@ -2,42 +2,43 @@
 
 <h1 align="center">👋 Hi there! I'm Yiğit</h1>
 
+<p align="center">
+Founder of YiğitDEV Softworks & Varia Software
+</p>
+
 <hr>
 
 <h2>🧠 About Me</h2>
 <p>
-I'm a passionate software developer and founder of YiğitDEV Softworks, driven by building practical and scalable software that actually works. I’m deeply interested in application architecture, cybersecurity, and systems that merge functionality with performance.
+Software developer focused on building practical, scalable systems that actually work.
+Interested in cybersecurity, system design, performance-driven applications, and real-world tools.
 
-I enjoy developing tools and apps that make life easier — from VPN's to installer systems and secure messaging apps. I believe in clean design, reliable code, and learning by building.
+I build things. I ship them. I improve them.
 </p>
 
 <h3>💻 Programming Languages</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt=nodejs>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 <h3>🔧 Tools & Technologies</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-<h2>📊 GitHub Overview</h2>
+<hr>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnderGamer6112&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://camo.githubusercontent.com/d93078c36ab4f123c8d59b80b8bf73dea52cf14eb2d76e3c7bc52577e8cb2935/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e64657247616d657236313132266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d3626686964655f626f726465723d74727565" alt="Top Languages" />
-</div>
+<h2>📊 GitHub Metrics</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnderGamer6112&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/EnderGamer6112/EnderGamer6112/main/github-metrics.svg" />
+</p>
